@@ -1,0 +1,920 @@
+[
+  {
+    "type": "text",
+    "text": "Ready to learn?",
+    "duration": 1.216
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "1. Implement",
+    "duration": 1.536
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Implement",
+    "duration": 1.0026666666666666
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Implement",
+    "duration": 1.0026666666666666
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Implement",
+    "duration": 1.0026666666666666
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "They plan to implement new policies soon.",
+    "duration": 3.264
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "2. Justify",
+    "duration": 1.6426666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Justify",
+    "duration": 1.152
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Justify",
+    "duration": 1.152
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Justify",
+    "duration": 1.152
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Can you justify your decision with facts?",
+    "duration": 3.1573333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "3. Enhance",
+    "duration": 1.5573333333333332
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Enhance",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Enhance",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Enhance",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Regular exercise can enhance your mood.",
+    "duration": 3.562666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "4. Diverse",
+    "duration": 1.4933333333333334
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Diverse",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Diverse",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Diverse",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Our company values a diverse workforce.",
+    "duration": 3.4346666666666668
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "5. Evaluate",
+    "duration": 1.8133333333333332
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Evaluate",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Evaluate",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Evaluate",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "We need to evaluate the project’s success.",
+    "duration": 3.4133333333333336
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "6. Influence",
+    "duration": 1.6853333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Influence",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Influence",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Influence",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Social media has a strong influence on teens.",
+    "duration": 4.288
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "7. Maintain",
+    "duration": 1.7493333333333334
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Maintain",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Maintain",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Maintain",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "It's important to maintain good relationships.",
+    "duration": 3.477333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "8. Strategy",
+    "duration": 1.536
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Strategy",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Strategy",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Strategy",
+    "duration": 1.0666666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Developing a clear strategy is key to success.",
+    "duration": 3.968
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "9. Challenge",
+    "duration": 1.5786666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Challenge",
+    "duration": 0.96
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Challenge",
+    "duration": 0.96
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Challenge",
+    "duration": 0.96
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Accepting challenges helps us grow.",
+    "duration": 3.050666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "10. Collaborate",
+    "duration": 1.6
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Collaborate",
+    "duration": 1.1093333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Collaborate",
+    "duration": 1.1093333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Collaborate",
+    "duration": 1.1093333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Teams must collaborate effectively to succeed.",
+    "duration": 3.925333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "11. Integrate",
+    "duration": 1.856
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Integrate",
+    "duration": 0.9173333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Integrate",
+    "duration": 0.9173333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Integrate",
+    "duration": 0.9173333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "We aim to integrate new technology into our workflow.",
+    "duration": 4.373333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "12. Generate",
+    "duration": 1.536
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Generate",
+    "duration": 0.8746666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Generate",
+    "duration": 0.8746666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Generate",
+    "duration": 0.8746666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "This process will generate more revenue.",
+    "duration": 3.2426666666666666
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "13. Prioritize",
+    "duration": 2.2826666666666666
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Prioritize",
+    "duration": 1.28
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Prioritize",
+    "duration": 1.28
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Prioritize",
+    "duration": 1.28
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "You should prioritize your tasks based on importance.",
+    "duration": 4.16
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "14. Analyze",
+    "duration": 2.0693333333333332
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Analyze",
+    "duration": 1.088
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Analyze",
+    "duration": 1.088
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Analyze",
+    "duration": 1.088
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Let's analyze the data before making decisions.",
+    "duration": 3.968
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "15. Innovate",
+    "duration": 1.7493333333333334
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Innovate",
+    "duration": 0.832
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Innovate",
+    "duration": 0.832
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Innovate",
+    "duration": 0.832
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Companies must innovate to stay competitive.",
+    "duration": 3.648
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "16. Comprehend",
+    "duration": 2.1546666666666665
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Comprehend",
+    "duration": 1.1306666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Comprehend",
+    "duration": 1.1306666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Comprehend",
+    "duration": 1.1306666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Can you comprehend the instructions clearly?",
+    "duration": 3.1573333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "17. Facilitate",
+    "duration": 2.3466666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Facilitate",
+    "duration": 1.152
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Facilitate",
+    "duration": 1.152
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Facilitate",
+    "duration": 1.152
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Technology can facilitate communication between teams.",
+    "duration": 4.906666666666666
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "18. Illustrate",
+    "duration": 1.8773333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Illustrate",
+    "duration": 0.9813333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Illustrate",
+    "duration": 0.9813333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Illustrate",
+    "duration": 0.9813333333333333
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Please illustrate your point with an example.",
+    "duration": 3.328
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "19. Navigate",
+    "duration": 1.984
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Navigate",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Navigate",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Navigate",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "It's easy to navigate the website with this guide.",
+    "duration": 3.8186666666666667
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "20. Resolve",
+    "duration": 1.664
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Resolve",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Resolve",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "Resolve",
+    "duration": 1.024
+  },
+  {
+    "type": "pause",
+    "duration": 2.0
+  },
+  {
+    "type": "text",
+    "text": "We must resolve this issue before the deadline.",
+    "duration": 3.648
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  },
+  {
+    "type": "text",
+    "text": "Great work! See you next time.",
+    "duration": 2.496
+  },
+  {
+    "type": "pause",
+    "duration": 3.0
+  }
+]

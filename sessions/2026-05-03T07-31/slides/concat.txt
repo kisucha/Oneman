@@ -1,0 +1,205 @@
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_000.png'
+duration 4.216
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_001.png'
+duration 3.536
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_002.png'
+duration 3.003
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_003.png'
+duration 3.003
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_004.png'
+duration 3.003
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_005.png'
+duration 6.264
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_006.png'
+duration 3.643
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_007.png'
+duration 3.152
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_008.png'
+duration 3.152
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_009.png'
+duration 3.152
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_010.png'
+duration 6.157
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_011.png'
+duration 3.557
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_012.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_013.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_014.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_015.png'
+duration 6.563
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_016.png'
+duration 3.493
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_017.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_018.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_019.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_020.png'
+duration 6.435
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_021.png'
+duration 3.813
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_022.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_023.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_024.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_025.png'
+duration 6.413
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_026.png'
+duration 3.685
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_027.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_028.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_029.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_030.png'
+duration 7.288
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_031.png'
+duration 3.749
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_032.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_033.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_034.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_035.png'
+duration 6.477
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_036.png'
+duration 3.536
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_037.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_038.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_039.png'
+duration 3.067
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_040.png'
+duration 6.968
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_041.png'
+duration 3.579
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_042.png'
+duration 2.960
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_043.png'
+duration 2.960
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_044.png'
+duration 2.960
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_045.png'
+duration 6.051
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_046.png'
+duration 3.600
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_047.png'
+duration 3.109
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_048.png'
+duration 3.109
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_049.png'
+duration 3.109
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_050.png'
+duration 6.925
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_051.png'
+duration 3.856
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_052.png'
+duration 2.917
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_053.png'
+duration 2.917
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_054.png'
+duration 2.917
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_055.png'
+duration 7.373
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_056.png'
+duration 3.536
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_057.png'
+duration 2.875
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_058.png'
+duration 2.875
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_059.png'
+duration 2.875
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_060.png'
+duration 6.243
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_061.png'
+duration 4.283
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_062.png'
+duration 3.280
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_063.png'
+duration 3.280
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_064.png'
+duration 3.280
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_065.png'
+duration 7.160
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_066.png'
+duration 4.069
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_067.png'
+duration 3.088
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_068.png'
+duration 3.088
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_069.png'
+duration 3.088
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_070.png'
+duration 6.968
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_071.png'
+duration 3.749
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_072.png'
+duration 2.832
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_073.png'
+duration 2.832
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_074.png'
+duration 2.832
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_075.png'
+duration 6.648
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_076.png'
+duration 4.155
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_077.png'
+duration 3.131
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_078.png'
+duration 3.131
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_079.png'
+duration 3.131
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_080.png'
+duration 6.157
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_081.png'
+duration 4.347
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_082.png'
+duration 3.152
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_083.png'
+duration 3.152
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_084.png'
+duration 3.152
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_085.png'
+duration 7.907
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_086.png'
+duration 3.877
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_087.png'
+duration 2.981
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_088.png'
+duration 2.981
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_089.png'
+duration 2.981
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_090.png'
+duration 6.328
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_091.png'
+duration 3.984
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_092.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_093.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_094.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_095.png'
+duration 6.819
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_096.png'
+duration 3.664
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_097.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_098.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_099.png'
+duration 3.024
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_100.png'
+duration 6.648
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_101.png'
+duration 5.496
+file 'c:/Oneman Company/sessions/2026-05-03T07-31/slides/slide_101.png'

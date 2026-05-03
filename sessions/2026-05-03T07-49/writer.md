@@ -1,0 +1,142 @@
+# ✍️ Writer — Researcher가 제공한 단어 정보를 바탕으로 슬라이드용 텍스트와 나레이션 스크립트를 작성. 나레이션은 '···Xs···' 표기와 [ ] 안내문을 제외한 영어만 포함.
+
+✍️ Writer: 작업 시작합니다.
+
+<write_file path="c:\Oneman Company\sessions\2026-05-03T07-49\script.txt">
+Ready to learn?
+Initiative
+Initiative
+Initiative
+Can you justify your decision with facts?
+Strategy
+Strategy
+Strategy
+We need a clear strategy to win the competition.
+Influence
+Influence
+Influence
+Social media can influence public opinion.
+Reliable
+Reliable
+Reliable
+He is one of our most reliable team members.
+Comprehensive
+Comprehensive
+Comprehensive
+This guide provides comprehensive information.
+Distinct
+Distinct
+Distinct
+Each culture has its own distinct traditions.
+Maintain
+Maintain
+Maintain
+It's important to maintain good relationships.
+Enhance
+Enhance
+Enhance
+Regular exercise can enhance your mood.
+Contribute
+Contribute
+Contribute
+Volunteering can contribute to community growth.
+Implement
+Implement
+Implement
+They plan to implement new policies next month.
+Great work! See you next time.
+</write_file>
+
+<write_file path="c:\Oneman Company\sessions\2026-05-03T07-49\slides.txt">
+Vocabulary Training — Level 2
+Today's 10 Words
+
+──────────────────────────────
+[Slide 1]
+1. Initiative  ( /ɪˈnɪʃətɪv/ )
+주도성, 계획
+──────────────────────────────
+Taking the initiative shows leadership skills.
+주도성을 발휘하는 것은 리더십을 보여준다.
+
+[Slide 2]
+2. Justify  ( /ˈdʒʌstɪfaɪ/ )
+정당화하다, 이유를 들다
+──────────────────────────────
+Can you justify your decision with facts?
+사실로 결정의 정당성을 입증할 수 있나요?
+
+[Slide 3]
+3. Strategy  ( /ˈstrætədʒi/ )
+전략
+──────────────────────────────
+We need a clear strategy to win the competition.
+우리는 경쟁에서 승리하기 위해 명확한 전략이 필요하다.
+
+[Slide 4]
+4. Influence  ( /ˈɪnfluəns/ )
+영향력, 영향을 주다
+──────────────────────────────
+Social media can influence public opinion.
+소셜미디어는 여론에 영향을 미칠 수 있다.
+
+[Slide 5]
+5. Reliable  ( /rɪˈlaɪəbl/ )
+신뢰할 수 있는
+──────────────────────────────
+He is one of our most reliable team members.
+그는 우리 팀에서 가장 신뢰할 수 있는 구성원 중 한 명이다.
+
+[Slide 6]
+6. Comprehensive  ( /ˌkɒmprɪˈhensɪv/ )
+포괄적인, 철저한
+──────────────────────────────
+This guide provides comprehensive information.
+이 가이드는 포괄적인 정보를 제공한다.
+
+[Slide 7]
+7. Distinct  ( /dɪˈstɪŋkt/ )
+뚜렷한, 명확한
+──────────────────────────────
+Each culture has its own distinct traditions.
+각 문화는 자신만의 뚜렷한 전통을 가지고 있다.
+
+[Slide 8]
+8. Maintain  ( /meɪnˈteɪn/ )
+유지하다, 계속하다
+──────────────────────────────
+It's important to maintain good relationships.
+좋은 관계를 유지하는 것이 중요하다.
+
+[Slide 9]
+9. Enhance  ( /ɪnˈhæns/ )
+향상시키다, 개선하다
+──────────────────────────────
+Regular exercise can enhance your mood.
+규칙적인 운동은 기분을 향상시킬 수 있다.
+
+[Slide 10]
+10. Contribute  ( /kənˈtrɪbjuːt/ )
+기여하다
+──────────────────────────────
+Volunteering can contribute to community growth.
+봉사는 지역 사회 성장에 기여할 수 있다.
+
+[Slide 11]
+11. Implement  ( /ˈɪmplɪment/ )
+실행하다, 시행하다
+──────────────────────────────
+They plan to implement new policies next month.
+그들은 다음 달에 새 정책들을 시행할 계획이다.
+
+[Outro Slide]
+Great work!
+Today you learned 10 new words.
+Keep practicing!
+</write_file>
+
+---
+
+## 📄 write_file 결과
+📄 `write_file` → c:\Oneman Company\sessions\2026-05-03T07-49\script.txt — ✅ UTF-8 저장 완료
+📄 `write_file` → c:\Oneman Company\sessions\2026-05-03T07-49\slides.txt — ✅ UTF-8 저장 완료
